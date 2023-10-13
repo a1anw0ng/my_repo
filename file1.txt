@@ -1,0 +1,9 @@
+This is the first text file.
+
+Here are some of my favorite fruits:
+
++ apples
++ oranges
++ bananas
++ peaches
++ strawberries
